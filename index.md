@@ -8,3 +8,8 @@
 This is normal text
 
 ![Image of cat on snow](https://upload.wikimedia.org/wikipedia/commons/b/b6/Felis_catus-cat_on_snow.jpg)
+
+
+``` python
+greeting = "Hello World!"
+```
