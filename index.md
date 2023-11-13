@@ -13,3 +13,7 @@ This is normal text
 ``` python
 greeting = "Hello World!"
 ```
+
+- [x] Introduction to GitHub Tutorial
+- [ ] Communicate Using Markdown Tutorial
+- [ ] Resolve Merge Conflicts Tutorial
